@@ -10,15 +10,8 @@
                         "output": 128000
                     }
                 },
-                "z-ai/glm5": {
-                    "name": "GLM-5",
-                    "limit": {
-                        "context": 200000,
-                        "output": 128000
-                    }
-                },
-                "moonshotai/kimi-k2.5": {
-                    "name": "Kimi K2.5",
+                "moonshotai/kimi-k2.6": {
+                    "name": "Kimi K2.6",
                     "limit": {
                         "context": 256000,
                         "output": 128000
@@ -31,15 +24,8 @@
                         "output": 128000
                     }
                 },
-                "gpt-5.4": {
-                    "name": "GPT-5.4",
-                    "limit": {
-                        "context": 256000,
-                        "output": 128000
-                    }
-                },
-                "gemini-3.1-pro-preview": {
-                    "name": "Gemini 3.1 Pro Preview",
+                "claude-opus-4-7": {
+                    "name": "Claude Opus 4.7",
                     "limit": {
                         "context": 256000,
                         "output": 128000
