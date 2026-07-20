@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^14.3.0",
-    "axios": "^1.16.0",
+    "axios": "^1.18.0",
     "dayjs": "^1.11.20",
     "echarts": "^6.0.0",
     "naive-ui": "^2.44.1",
