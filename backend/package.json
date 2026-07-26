@@ -20,6 +20,6 @@
     "@cloudflare/workers-types": "^4.20250501.0",
     "@types/uuid": "^10.0.0",
     "typescript": "^5.8.0",
-    "wrangler": "^4.15.0"
+    "wrangler": "^4.114.0"
   }
 }
